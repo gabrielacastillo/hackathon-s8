@@ -1,0 +1,16 @@
+RETO 1
+PREGUNTAS 
+1-¿Cuál es la importancia de usar un algoritmo? 
+
+   Es importante para ordenar ideas para un proceso correcto que se  llevará a cabo. 
+
+2-¿Cómo un algoritmo mejora el proceso o servicio de una empresa?
+
+    Los algoritmos pueden mejorar diferentes procesos de la compañía en 
+    casi todos los sectores.
+    Para mejorar la fase de 'marketing' y ventas, aunque también para 
+    desarrollar su capacidad 
+    empresarial .
+
+3-¿El algoritmo expuesto en este caso es el único con el que cuenta Tu Tienda?
+
